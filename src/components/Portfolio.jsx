@@ -28,10 +28,10 @@ const projects = [
     {
       img: project3,
       title: "Project #3",
-      description: "Currency Converter App in React JS 18 using tailwindcss for styling",
+      description: "Developed a responsive GIPHY Clone using React JS 18 and Tailwind CSS, featuring GIF search, sharing, embedding, and related content recommendations with a user-friendly interface.",
       links: {
-        site: "https://currencyconvertfrom-to.netlify.app/",
-        github: "https://github.com/Mahesh3work/Currency_Convert",
+        site: "https://gif-sticker-text.onrender.com",
+        github: "https://github.com/Mahesh3work/Gif-Sticker-Text.git",
       },
     },
    
