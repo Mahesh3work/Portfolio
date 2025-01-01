@@ -1,6 +1,6 @@
 
 import project1 from "../assets/project1.png"
-import project222 from "../assets/project222.png"
+import project3 from "../assets/project3.png"
 import project2 from "../assets/project2.png"
 
 import { AiFillGithub, AiOutlineGithub } from 'react-icons/ai'
@@ -26,7 +26,7 @@ const projects = [
       },
     },
     {
-      img: project222,
+      img: project3,
       title: "Project #3",
       description: "Currency Converter App in React JS 18 using tailwindcss for styling",
       links: {
